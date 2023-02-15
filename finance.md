@@ -1,27 +1,78 @@
 # ABE Financial Model Overview
 
+The ABE financial model is best understood from the perspectives of the different functional groups that interact with it. These include project contributors, users, investors and analysts.
+
+We first describe the high level mechanics and then describe the model from these different perspectives.
+
 ## High level flow
 
 1. A project is undertaken and initial work is done.
-2. A fair market price and valuation for the project are agreed upon in a collective process of appraisal.
-3. Users of the product or service may pay any amount to use it, including nothing. Thus, unlike the typical sense of the word "price," payment of the agreed-upon price here is not a precondition for use of the product or service. Instead, the price is simply a measure of the value provided by the service and it is used in accounting, as will be explained below.
-3. There are many kinds of contribution that someone might make to the project. Any contribution is understood as either being a labor, capital, or idea contribution. In addition, there are also purely financial contributions, i.e. someone simply paying money to the project. In traditional finance, money is treated as capital, but here we differentiate these since capital contributions in the ABE sense typically serve a bounded and describable purpose within the project, whereas money is generally treated as applying to the whole project. For instance, office space would be treated as capital, and if everyone is working remotely, then it is seen to contribute zero value to the project. On the other hand, money typically cannot be subdivided as being used for specific purposes, as units of money are interchangeable (there is no "this money" and "that money" except if such bounds are artificially set), and for the purposes of ABE accounting, all money paid to projects will, when used, be treated as originating from a common well, with all sources being proportionately recognized. We say that money represents _anonymous_ value, whereas labor, capital, and ideas represent appraisable, non-anonymous value. From the perspective of would-be contributors, financial contributions represent the least risk, and such contributions grow at the rate of the project as a whole. Non-financial contributions are directly appraised in terms of value contributed to the project (as will be explained below), so they may grow at a higher or lower rate.
-4. The non-financial contributions are attributed a share of revenues by the process of Dialectical Inheritance Attribution (DIA). DIA is a collective process where groups of people ("analysts") appraise labor, capital, and idea contributions made to the project and agree on the proportionate value of each contribution to the project as a whole. The result of DIA is a set of _attributions_ prescribing the proportions of payments made to the project that are owed to each contributor, determined as the sum of proportions of all contributions made to the project by them. That is, contributors to the project receive shares of revenue of the project commensurate with the value provided by them, as agreed-upon in a collective process that anyone may participate in. The process of DIA is guided by data, standards, conventions, heuristics, precedents, and other guidelines specified in the ABE founding documents that are designed to produce fair and accurate results and also improve the process itself over time.
-8. Financial contributions to the project are immediately distributed to all project contributors according to the current attributions.
-9. All accounting for a project is public information. Every payment made into and out of a project is publicly declared, even if it is anonymized.
-9. For the investor, financial contributions are treated in a two-pronged way in consideration of the magnitude of such contributions relative to the fair market price:
-9a. If the contribution is less than or equal to the price, then it is treated simply as compensation for use of the project, and nothing further needs to be done.
-9b. If the contribution exceeds the price, then the excess is treated as an _investment_, entitling the contributor to an attributive share of revenues determined in relation to the present valuation.
-9. There are no constraints on contributors on the use of the money paid to them by the project. Yet, the project generating tangible returns for them is a measure of the confidence of the community in the value of the project. Thus, it is also an inverse measure of the risk level of future contributions to the project. Each payment thus constitutes an incentive for future contribution.
-10. Additionally, as payments made to contributors is public information, such payments equally serve as incentives for future contribution for _all_ people, and not only the contributors being paid.
-11. Additionally, recognizing past value created simultaneously empowers those most in a position to create value and incentivizes such value creation, and the incentive equally applies to all potential contributors and not only those who are being paid this time.
-12. In traditional markets there is a dichotomy known as primary vs secondary investments. Primary is where projects sell "ownership" stake in exchange for money that will be used for future contributions. Such future contributions are guided by a bureaucracy that employs people who in many cases are the original creators of the value already generated by the project. The bureaucracy pays such contributors a steady income, representing a low risk environment for such contributors, but also one where they don't directly reap the benefits of valuable contributions (or the cost of non-valuable ones) made by them. The secondary market is where shares of ownership are sold for money. Traders gain or lose in terms of the _valuation_ of the project, while also receiving shares of revenue (dividend). The traders themselves are not involved in the project's value creation, and from the project's perspective, serve the role of determining market price of each share (not of the service provided) and consequently valuation of the project as a whole.
-13. In ABE, valuation of the project is a function of revenues, that is, a function of the payments made to the project and .
+
+2. A fair market price and valuation for the project are agreed upon in a collective and transparent process of appraisal.
+
+3. The project is also collectively appraised ("DIA" - explained below) in terms of sources of value, and proportions of value contributed by each contributor ("attributions") are agreed upon.
+
+4. Users may pay any amount (including zero) for use of the project, i.e. the price is not a factor here.
+
+5. Payments made to the project are immediately distributed to all contributors according to the current attributions.
+
+6. Payments to the project that exceed the agreed-upon price are treated as investments (this is the role played by the price).
+
+7. Investments entitle the payer to shares of revenue generated by the project, i.e. the investors are added to the attributions. The share of attribution is determined by considering the size of the investment in relation to the agreed-upon current valuation.
+
+8. Contributions of any kind (including investments) may change the attributions ("dilution"), valuation and price. Typically, the former two would change constantly (i.e. typically increase) while the price would change infrequently.
+
+9. There are three revenue streams. Two of them, payment for use, and investments, have already been discussed. The third is revenue from attribution. This comes from projects downstream in the ABE ecosystem that include the present project in their attributions (e.g. either using it as capital or exhibiting ideas present in the present project).
+
+## From the Perspective of Users
+
+1. Users of the product or service may pay any amount to use it, including nothing. Thus, unlike the typical sense of the word "price," payment of the agreed-upon price here is not a precondition for use of the product or service. Instead, the price is simply a measure of the value provided by the service and it is used in accounting, as will be explained below.
+
+## From the Perspective of Contributors
+
+1. There are many kinds of contribution that someone might make to the project. Any contribution is understood as either being a labor, capital, or idea contribution. In addition, there are also purely financial contributions, i.e. someone simply paying money to the project. In traditional finance, money is treated as capital, but here we differentiate these since capital contributions in the ABE sense typically serve a bounded and describable (and thus appraisable) purpose within the project, whereas money is generally treated as applying to the whole project. For instance, office space would be treated as capital, and if everyone is working remotely, then it is seen to contribute zero value to the project. On the other hand, money typically cannot be subdivided as being used for specific purposes, as units of money are interchangeable (there is no "this money" and "that money" except if such bounds are artificially set), and for the purposes of ABE accounting, all money paid to projects is essentially treated as going into a common well, with all sources being proportionately recognized. We say that money represents _anonymous_ value, whereas labor, capital, and ideas represent appraisable, non-anonymous value. From the perspective of would-be contributors, financial contributions represent the least risk, as such contributions grow at the rate of the project as a whole. Non-financial contributions are directly appraised in terms of value contributed to the project (as will be explained below), so they may grow at a higher or lower rate.
+
+## From the Perspective of Investors
+
+1. Financial contributions to a project are treated in a two-pronged way in consideration of the magnitude of such contributions relative to the fair market price:
+
+2. If the contribution is less than or equal to the price, then it is treated simply as compensation for use of the project, and nothing further needs to be done.
+
+3. If the contribution exceeds the price, then the excess is treated as an _investment_, entitling the contributor to an attributive share of revenues determined in relation to the present valuation.
+
+## From the Perspective of Analysts
+
+1. Non-financial contributions to a project are attributed a share of revenues by the process of Dialectical Inheritance Attribution (DIA). DIA is a collective process where groups of people ("analysts") appraise labor, capital, and idea contributions made to the project and agree on the proportionate value of each contribution to the project as a whole. The result of DIA is a set of _attributions_ prescribing the proportions of payments made to the project that are owed to each contributor, determined as the sum of proportions of all contributions made to the project by them. That is, contributors to the project receive shares of revenue of the project commensurate with the value provided by them, as agreed-upon in a collective process that anyone may participate in. The process of DIA is guided by data, standards, conventions, heuristics, precedents, and other guidelines specified in the ABE founding documents that are designed to produce fair and accurate results and also improve the process itself over time. The rationale and conclusions of DIA in relation to a project are publicly recorded and open to revision.
+
+2. Valuation of the project is in principle a function of revenue, for instance, the Net Present Value (NPV) of the aggregate of the three revenue streams over the useful lifetime of the project. In the early stages of ABE, since there is very little or no revenue, and also high uncertainty regarding the potential magnitude of these revenue streams, other data and heuristics are used to estimate valuation, such as estimates of the industry cost of producing the project. The valuation is agreed-upon in a collective and transparent process that anyone may participate in, with the rationale publicly recorded and the conclusions open to revision.
+
+3. The price of the project is in principle most accurately determined as the share of value created using the project, a share that is once again determined through DIA. But as this information is unlikely to be available in practice (e.g. it may be private information, and the technological means to track use are currently unavailable), at least at the early stages of ABE, the price is typically set by proxy analysis, that is, by looking at the prices of similar or analogous projects that have a market price in traditional markets. The price is agreed-upon in a collective and transparent process that anyone may participate in, with the rationale publicly recorded and the conclusions open to revision.
+
+## Accounting
+
+1. Financial contributions to the project are immediately distributed to all project contributors according to the current attributions.
+
+2. In the case of investments, in addition to being paid out according to the a priori attributions, the fresh investment also increases the valuation of the project by the investment amount, and entitles the investor a share of revenues of the new valuation according to the size of their investment in relation to that new valuation. For instance, if a project is worth $100 and there is a $100 investment, then the new valuation is $200 and the investor now has a 50% attributive share.
+
+3. Fresh non-financial contributions also increase the valuation of the project, but they do so via DIA appraisal of their attributive share. That is, once the value of the contribution is appraised in relation to the whole project, a new valuation is implied by considering the existing valuation and the incoming proportion of value represented by the fresh contribution. Essentially, non-financial contributions increase valuation in an inverse way to how investments do it -- in the case of investments, it is the valuation that is known, and the attribution is determined from it, whereas here it is the other way around.
+
+4. All accounting for a project is public information. Every payment made into and out of a project is publicly declared, even if it is anonymized. Attributions are publicly declared, even if anonymized. Price and valuation are publicly declared as well.
+
+## Incentive Structures
+
+1. There are no constraints on contributors on the use of the money paid to them by the project. Yet, the project generating tangible returns for them is a measure of the confidence of the community in the value of the project. Thus, it is also an inverse measure of the risk level of future contributions to the project. Each payment thus constitutes an incentive for future contribution.
+
+2. As payments made to contributors is public information, such payments equally serve as incentives for future contribution for _all_ people, and not only the contributors being paid this time.
+
+3. In traditional markets there is a dichotomy known as primary vs secondary investments. Primary is where projects sell "ownership" stake in exchange for money that will be used for future contributions. Such future contributions are guided by a bureaucracy that employs people who in many cases are the original creators of the value already generated by the project. The bureaucracy pays such contributors a steady income, representing a low risk environment for such contributors, but also one where they don't directly reap the benefits of valuable contributions (or the cost of non-valuable ones) made by them. The secondary market is where shares of ownership are sold for money. Traders gain or lose in terms of the _valuation_ of the project, while also receiving shares of revenue (dividend). The traders themselves are not involved in the project's value creation, and from the project's perspective, serve the role of determining market price of each share (not of the service provided) and consequently valuation of the project as a whole.
+
+4. Since project contributors have been paid, they are themselves in a position to spend the money on future initiatives for the project. As they are the ones who have already been publicly and fairly recognized as contributing the most value to the project, they are adjudged to be in the best position to assess future value. This is in contrast to traditional primary market-funded bureaucracies, where there is no such "proof" of the soundness of judgement of value by project management, and it is only an indirect proof since the primary value creators are obscured and are not systemically known as they are in ABE. Thus, this also implies that the incentives to create value are stronger in ABE since there is the promise of full and fair recognition even down to the individual level. Low-risk revenue may be drawn not by submitting to a bureaucracy but, instead, by fulfilling well-specified labor items identified by those already accredited by the system.
+
+5. Payments to a project are immediately distributed according to current attributions, as mentioned earlier, but this is only always true for labor contributors. For capital and idea contributors, the money is only paid to them if they have put ABE in place on the concerned projects. This serves two purposes. First, it ensures that the payment made to them is likewise distributed fairly upstream, and secondly, it creates a financial incentive for ABE adoption. If the money isn't immediately payable, then it is redistributed in the present project according to the current attributions, but the owed amount remains unaffected, and represents debt that will be paid upon ABE adoption by the upstream project.
 
 TODO:
 	[ ] incentivization of early contributors
 	[ ] "bankruptcy"
-	[ ] the 3 forms of revenue
 	[ ] eliminating liquidity
 		- in what way are all levels of viscosity facilitated by ABE?
 		- all the various forms of debt - treasury bills etc. - are made redundant
@@ -29,7 +80,3 @@ TODO:
 	[ ] contributors can choose to pay money or to do non-anonymous work. They typically choose the latter if they are core contributors. And if they happen to have more important things to do but still believe in the project, they would in that case contribute money and ideas, and labor in the form of consulting / lending expertise as needed.
 		- contrast this by introducing how, in traditional markets, there is a well of money created for future work. Here that's unnecessary since the contributors being paid are themselves in a position to contribute that well, yet, they contribute something more valuable -- the money represents _a lower bound_ on the value that could be contributed. That's the same as the traditional case, but the means of assessing that potential value is more accurate in ABE, since it's the contributors themselves making that assessment, and they will contribute in the way that maximizes global value rather than local value.
 	[ ] introduce this whole thing as a whole second section - the incentive structure and the information structure -- accuracy of assessing value. Introduce the context of global value and how it improves all.
-
-3. Project stewards define the scope of future work.
-3. 
-
