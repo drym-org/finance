@@ -40,7 +40,7 @@ We first describe the high level mechanics and then describe the model from thes
 
 3. If the contribution exceeds the price, then the excess is treated as an _investment_, entitling the contributor to an attributive share of revenues determined in relation to the present valuation.
 
-4. In many respects, ABE is a combination of the startup investment model (investors gain attributive stake) and the model of trading on public markets (investors immediately receive shares of revenue or dividend). The result is that anyone may participate in investment at any stage of the project (like public markets), and not only those who are wealthy (as is the case for startup investment).
+4. In many respects, ABE is a combination of the startup investment model (investors gain attributive stake and there is dilution) and the model of trading on public markets (investors immediately receive shares of revenue or dividend). The result is that anyone may participate in investment at any stage of the project (like public markets), and not only those who are wealthy (as is the case for startup investment).
 
 ## From the Perspective of Analysts
 
