@@ -34,21 +34,21 @@ We first describe the high level mechanics and then describe the model from thes
 
 ## From the Perspective of Accountants
 
-1. Financial contributions to the project are immediately distributed to all project contributors according to the current attributions.
+1. All accounting for a project is public information. Every payment made into and out of a project is publicly declared, even if it is anonymized. Attributions are publicly declared, even if anonymized. Price and valuation are publicly declared as well.
 
-2. Financial contributions to a project are treated in a two-pronged way in consideration of the magnitude of such contributions relative to the fair market price:
+2. Financial contributions to the project are immediately distributed to all project contributors according to the current attributions.
 
-3. If the contribution is less than or equal to the price, then it is treated simply as compensation for use of the project, and nothing further needs to be done.
+3. Financial contributions to a project are treated in a two-pronged way in consideration of the magnitude of such contributions relative to the fair market price:
 
-4. If the contribution exceeds the price, then the excess is treated as an _investment_, entitling the contributor to an attributive share of revenues determined in relation to the present valuation.
+4. If the contribution is less than or equal to the price, then it is treated simply as compensation for use of the project, and nothing further needs to be done.
 
-5. In the case of such investments, in addition to being paid out according to the a priori attributions, the fresh investment also increases the valuation of the project by the investment amount, and entitles the investor a share of revenues of the new valuation according to the size of their investment in relation to that new valuation. In other words, an investment simultaneously pays out existing contributors, dilutes attributions, and increases valuation. For instance, if a project is worth $100 and there is a $100 investment, then existing contributors get the $100, the new valuation is $200 and the investor now has a 50% attributive share.
+5. If the contribution exceeds the price, then the excess is treated as an _investment_, entitling the contributor to an attributive share of revenues determined in relation to the present valuation.
 
-6. Fresh non-financial contributions also increase the valuation of the project, but they do so via DIA appraisal of their attributive share. That is, once the value of the contribution is appraised in relation to the whole project, a new valuation is implied by considering the existing valuation and the incoming proportion of value represented by the fresh contribution. Essentially, non-financial contributions increase valuation in an inverse way to how investments do it -- in the case of investments, it is the valuation that is known, and the attribution is determined from it, whereas here it is the other way around.
+6. In the case of such investments, in addition to being paid out according to the a priori attributions, the fresh investment also increases the valuation of the project by the investment amount, and entitles the investor a share of revenues of the new valuation according to the size of their investment in relation to that new valuation. In other words, an investment simultaneously pays out existing contributors, dilutes attributions, and increases valuation. For instance, if a project is worth $100 and there is a $100 investment, then existing contributors get the $100, the new valuation is $200 and the investor now has a 50% attributive share.
 
-7. Due to the potentially large number of investors in ABE projects and as the investment level might typically be small, the project may internally redistribute money owed to investors (according to current attributions) until such a time as the amount owed exceeds a minimum threshold (e.g. $1 or $5), to avoid a large number of insignificant micropayments incurring comparatively large transactional overhead. These owed amounts remain, however, and until they are paid out, the aggregate outstanding amount is treated as debt in relation to the project.
+7. Fresh non-financial contributions also increase the valuation of the project, but they do so via DIA appraisal of their attributive share. That is, once the value of the contribution is appraised in relation to the whole project, a new valuation is implied by considering the existing valuation and the incoming proportion of value represented by the fresh contribution. Essentially, non-financial contributions increase valuation in an inverse way to how investments do it -- in the case of investments, it is the valuation that is known, and the attribution is determined from it, whereas here it is the other way around.
 
-8. All accounting for a project is public information. Every payment made into and out of a project is publicly declared, even if it is anonymized. Attributions are publicly declared, even if anonymized. Price and valuation are publicly declared as well.
+8. Due to the potentially large number of investors in ABE projects and as the investment level might typically be small, the project may internally redistribute money owed to investors (according to current attributions) until such a time as the amount owed exceeds a minimum threshold (e.g. $1 or $5), to avoid a large number of insignificant micropayments incurring comparatively large transactional overhead. These owed amounts remain, however, and until they are paid out, the aggregate outstanding amount is treated as debt in relation to the project.
 
 ## From the Perspective of Investors
 
